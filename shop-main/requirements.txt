@@ -1,0 +1,8 @@
+django==3.2
+Pillow
+psycopg2
+python-decouple
+gunicorn
+#IMAGENES
+cloudinary
+django-paypal
